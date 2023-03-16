@@ -6,7 +6,7 @@ public class WaterMoving : MonoBehaviour
 {
     public int depth = 3;
 
-    public int width = 1200;
+    public int width = 500;
     public int height = 500;
 
     public float scale = 10.0f;
