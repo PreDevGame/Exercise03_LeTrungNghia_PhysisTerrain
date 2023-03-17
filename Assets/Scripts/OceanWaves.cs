@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Day la code em dang tham khao.
 public class OceanWaves : MonoBehaviour
 {
     //Public Properties
